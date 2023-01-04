@@ -1,0 +1,2 @@
+# amski
+AloDa
